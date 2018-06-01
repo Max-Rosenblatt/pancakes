@@ -66,6 +66,10 @@ def pancakes(numberOfPeople, perPerson):
     print()
     time.sleep(0.5)
     print(str(flour) + " grams of flour")
+    
+    time.sleep(2)
+    print("This will make the perfect amount of batter. Once fully combined, generously ladle into a pan to create discs")
+    print("around 15cm in diameter. Once bubbles appear, flip the pancakes and cook until golden and top with whatever you wish")
 
 
 
